@@ -1,10 +1,10 @@
 {
-	"id": "universe-fabric-loader-0.11.6-1.17",
-	"inheritsFrom": "1.17",
-	"releaseTime": "2021-06-18T19:41:36+0000",
-	"time": "2021-06-18T19:41:36+0000",
+	"id": "universe-fabric-loader-0.11.6-1.17.1",
+	"inheritsFrom": "1.17.1",
+	"releaseTime": "2021-07-06T14:05:24+0000",
+	"time": "2021-07-06T14:05:24+0000",
 	"type": "release",
-	"mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+	"mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
 	"arguments": {
 		"game": []
 	},
@@ -54,7 +54,7 @@
 			"url": "https://maven.fabricmc.net/"
 		},
 		{
-			"name": "net.fabricmc:intermediary:1.17",
+			"name": "net.fabricmc:intermediary:1.17.1",
 			"url": "https://maven.fabricmc.net/"
 		},
 		{
