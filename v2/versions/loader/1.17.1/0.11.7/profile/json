@@ -1,8 +1,8 @@
 {
-	"id": "universe-fabric-loader-0.11.6-1.17.1",
+	"id": "universe-fabric-loader-0.11.7-1.17.1",
 	"inheritsFrom": "1.17.1",
-	"releaseTime": "2021-07-06T14:05:24+0000",
-	"time": "2021-07-06T14:05:24+0000",
+	"releaseTime": "2021-09-26T18:09:02+0000",
+	"time": "2021-09-26T18:09:02+0000",
 	"type": "release",
 	"mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
 	"arguments": {
@@ -21,7 +21,7 @@
 			"url": "https://maven.fabricmc.net/"
 		},
 		{
-			"name": "net.fabricmc:tiny-remapper:0.4.2",
+			"name": "net.fabricmc:tiny-remapper:0.6.0",
 			"url": "https://maven.fabricmc.net/"
 		},
 		{
@@ -61,7 +61,7 @@
 			"url": "https://maven.fabricmc.net/"
 		},
 		{
-			"name": "net.hypercubemc:universe-loader:0.11.6",
+			"name": "net.hypercubemc:universe-loader:0.11.7",
 			"url": "https://raw.githubusercontent.com/HyperCubeMC/Universe-Installer-Maven/master/"
 		}
 	]
